@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DinnerDecider</string>
+    <string name="default_food">Chifa</string>
+</resources>
