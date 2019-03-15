@@ -48,7 +48,7 @@
             android:layout_marginLeft="8dp" android:layout_marginEnd="8dp" app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginRight="8dp"
             app:layout_constraintHorizontal_bias="0.495"
-            android:hint="Opcion para comer..." android:layout_marginBottom="15dp"
+            android:hint="Opcion para comer..." android:layout_marginBottom="28dp"
             app:layout_constraintBottom_toTopOf="@+id/addBtn"/>
     <Button
             android:text="Agregar Opcion"
@@ -59,7 +59,7 @@
             android:layout_marginLeft="8dp" android:layout_marginStart="8dp"
             style="@style/Widget.AppCompat.Button.Borderless"
             android:background="@color/colorPrimaryDark" android:textColor="@color/colorAccent"
-            android:layout_marginBottom="75dp"
+            android:layout_marginBottom="84dp"
             app:layout_constraintBottom_toTopOf="@+id/decideBtn"/>
 
 </android.support.constraint.ConstraintLayout>
